@@ -6,7 +6,7 @@ into this repository.
 _Italics!_
 :coffee:
 
-[Go to my awesome heading])## my-awesome-heading
+[Go to my awesome heading](#my-awesome-heading)
 
 ## This is an example of a subheading. 
 ![Alt Text](/img/python.png)
