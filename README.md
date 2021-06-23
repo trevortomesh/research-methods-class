@@ -84,15 +84,15 @@ Task Lists are cool too!
 
 Here's my to-do list for today:
 
--[x] Wake-up
+[x] Wake-up
 
--[x] Reply to student emails
+[x] Reply to student emails
 
--[x] Teach Research Methods Class
+[x] Teach Research Methods Class
 
--[ ] Pickup meds
+[ ] Pickup meds
 
--[ ] Proctor Exam
+[ ] Proctor Exam
 
 
 
