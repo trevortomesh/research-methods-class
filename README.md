@@ -83,6 +83,7 @@ Here's a nested list:
 Task Lists are cool too!
 
 Here's my to-do list for today:
+
 -[x] Wake-up
 
 -[x] Reply to student emails
