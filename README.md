@@ -93,5 +93,5 @@ Here's my to-do list for today:
 
 -[ ] Proctor Exam
 
-
+![woah](/home/trevor/research-methods-class/img/A2kybi2.gif)
 
