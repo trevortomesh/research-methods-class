@@ -83,15 +83,16 @@ Here's a nested list:
 Task Lists are cool too!
 
 Here's my to-do list for today:
--[x] Wake-up
 
--[x] Reply to student emails
+[x] Wake-up
 
--[x] Teach Research Methods Class
+[x] Reply to student emails
 
--[ ] Pickup meds
+[x] Teach Research Methods Class
 
--[ ] Proctor Exam
+[ ] Pickup meds
+
+[ ] Proctor Exam
 
 ![woah](/home/trevor/research-methods-class/img/A2kybi2.gif)
 
