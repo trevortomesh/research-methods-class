@@ -12,10 +12,10 @@ _Italics!_
 
 [Embedding Code](#embedding-code)
 
-[Go to my awesome heading](#my-awesome-heading)
+[Style Examples](#style-examples)
 
 ## This is an example of a subheading. 
-![Alt Text](/img/python.png)
+![Alt Text](img/python.png)
 
 ## embedding code
 
@@ -30,4 +30,68 @@ int myFunc(int a, int b){
   }  
 ```
 
-## My Awesome Heading!
+## Style Examples
+
+There's many different styles that you can use to format text:
+**bold**
+
+_italics_ or *italics*
+
+*__bold and italics__*
+
+~~strikethrough~~
+
+In the words of Abraham Lincoln:
+
+> Pardon my French!
+
+## Links
+
+You can host websites at [Github Pages](https://pages.github.com/).
+
+For info on section links see [Table of Contents](#table-of-contents)
+
+This is an example of a relative link: [newfile.txt](newfile.txt)
+
+## Lists in Markdown
+
+Here's a list of cool Pokemon:
+
+- Mew
+- Mewtwo
+- Celebi
+- Porygon
+- Arceus
+- Mimikyu
+
+Here's a list of my favorite pens:
+
+1. Lamy 200
+2. Herbin
+3. Pilot
+
+Here's a nested list:
+
+1. This is a number
+   1. This is a sub-number
+   2. This is another sub-number
+2. This is a number
+   - This is a subpoint
+   - This is another subpoint
+     1. This is a sub-sub number...
+
+Task Lists are cool too!
+
+Here's my to-do list for today:
+-[x] Wake-up
+
+-[x] Reply to student emails
+
+-[x] Teach Research Methods Class
+
+-[ ] Pickup meds
+
+-[ ] Proctor Exam
+
+
+
