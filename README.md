@@ -12,7 +12,7 @@ _Italics!_
 ## embedding code
 
 Embedding code is _very_ easy. All you have to do 
-is use a few backticks and list the name of the programming language! ::-):
+is use a few backticks and list the name of the programming language! 😸
 
 ```cpp
 
