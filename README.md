@@ -8,3 +8,16 @@ _Italics!_
 
 ## This is an example of a subheading. 
 ![Alt Text](/img/python.png)
+
+## embedding code
+
+Embedding code is _very_ easy. All you have to do 
+is use a few backticks and list the name of the programming language! ::-):
+
+```cpp
+
+int myFunc(int a, int b){
+  int c = a + b; 
+  return c;
+  }  
+```
