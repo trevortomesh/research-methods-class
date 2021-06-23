@@ -6,6 +6,10 @@ into this repository.
 _Italics!_
 :coffee:
 
+## Table of Contents
+
+[Example of a subheading](#this-is-an-example-of-a-subheading)
+[Embedding Code](#embedding-code)
 [Go to my awesome heading](#my-awesome-heading)
 
 ## This is an example of a subheading. 
