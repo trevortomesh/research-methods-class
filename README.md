@@ -34,6 +34,18 @@ You can host websites at [Github Pages](https://pages.github.com/)!
 
 You can also do relative links [newfile.txt](newfile.txt)
 
+## Embedding Images
+
+![python](img/python.png)
+
+
+
+
+
+
+
+
+
 
 
 
