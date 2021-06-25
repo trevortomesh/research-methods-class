@@ -8,12 +8,23 @@ materials that my students can use into this repository!
 
 ## Table of Contents
 
-1. [Style Examples](#style-examples)
-2. [Embedding Code](#embedding-code)
-3. [Embedding Links](embedding-links)
-4. [Embedding Images](#embedding-images)
-5. [Lists In Markdown](#lists-in-markdown)
-6. [Necessary Things for a README](#necessary-things-for-a-readme)
+1. [Manifest](#manifest)
+2. [Style Examples](#style-examples)
+3. [Embedding Code](#embedding-code)
+4. [Embedding Links](embedding-links)
+5. [Embedding Images](#embedding-images)
+6. [Lists In Markdown](#lists-in-markdown)
+7. [Necessary Things for a README](#necessary-things-for-a-readme)
+
+## Manifest
+
+- A manifest is a list of the top-level files in a project with a description of what each file is.
+
+```
+- newfile.txt --> A new file that says stuff in it
+- README.md ----> This markdown file you are reading.
+- img ----------> Images folder for the readme
+```
 
 ## Style Examples
 
