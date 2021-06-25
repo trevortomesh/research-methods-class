@@ -1,4 +1,4 @@
-# Research Methods Class
+# Research Methods Class (v 1.0)
 
 ![social](https://img.shields.io/github/followers/trevortomesh?style=social)![twitter](https://img.shields.io/twitter/follow/trevortomesh?style=social)![languages](https://img.shields.io/github/languages/count/trevortomesh/research-methods-class)
 
