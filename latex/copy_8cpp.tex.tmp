@@ -1,0 +1,41 @@
+\hypertarget{copy_8cpp}{}\doxysection{copy.\+cpp File Reference}
+\label{copy_8cpp}\index{copy.cpp@{copy.cpp}}
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include $<$iostream$>$}\newline
+Include dependency graph for copy.\+cpp\+:
+% FIG 0
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{copy_8cpp_a419e261ed02177705371b670441e173b}{addup}} (int min, int max)
+\item 
+int \mbox{\hyperlink{copy_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}{main}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{copy_8cpp_a419e261ed02177705371b670441e173b}\label{copy_8cpp_a419e261ed02177705371b670441e173b}} 
+\index{copy.cpp@{copy.cpp}!addup@{addup}}
+\index{addup@{addup}!copy.cpp@{copy.cpp}}
+\doxysubsubsection{\texorpdfstring{addup()}{addup()}}
+{\footnotesize\ttfamily int addup (\begin{DoxyParamCaption}\item[{int}]{min,  }\item[{int}]{max }\end{DoxyParamCaption})}
+
+addup takes a minumum number (min) and a maximum number (max) and adds them up using a for loop. It then returns the sum of the numbers (sum)
+
+
+\begin{DoxyParams}{Parameters}
+{\em min} & is the minumum number that the function will start adding from \\
+\hline
+{\em max} & is the number that the function will finish adding at. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+the final sum of the numbers from min to max. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{copy_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}\label{copy_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}} 
+\index{copy.cpp@{copy.cpp}!main@{main}}
+\index{main@{main}!copy.cpp@{copy.cpp}}
+\doxysubsubsection{\texorpdfstring{main()}{main()}}
+{\footnotesize\ttfamily int main (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+This is the main function. 

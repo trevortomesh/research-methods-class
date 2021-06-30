@@ -1,0 +1,260 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.26)  30 JUN 2021 12:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main_8cpp.tex
+(./main_8cpp.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+! Undefined control sequence.
+l.1 \hypertarget
+                {main_8cpp}{}\doxysection{main.\+cpp File Reference}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \hypertarget{m
+                  ain_8cpp}{}\doxysection{main.\+cpp File Reference}
+? 
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1 \hypertarget{main_
+                      8cpp}{}\doxysection{main.\+cpp File Reference}
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+! Extra }, or forgotten $.
+l.1 \hypertarget{main_8cpp}
+                           {}\doxysection{main.\+cpp File Reference}
+? 
+! Undefined control sequence.
+l.1 \hypertarget{main_8cpp}{}\doxysection
+                                         {main.\+cpp File Reference}
+? 
+! Undefined control sequence.
+l.1 \hypertarget{main_8cpp}{}\doxysection{main.\+
+                                                 cpp File Reference}
+? 
+
+! LaTeX Error: Command \ttfamily invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 {\ttfamily
+               \#include $<$stdio.\+h$>$}\newline
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.3 {\ttfamily \#include $
+                          <$stdio.\+h$>$}\newline
+? 
+Missing character: There is no < in font nullfont!
+! Undefined control sequence.
+l.3 {\ttfamily \#include $<$stdio.\+
+                                    h$>$}\newline
+? 
+Missing character: There is no > in font nullfont!
+! Extra }, or forgotten $.
+<recently read> }
+                 
+l.3 {\ttfamily \#include $<$stdio.\+h$>$}
+                                         \newline
+? 
+
+! LaTeX Error: Command \ttfamily invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 {\ttfamily
+               \#include $<$iostream$>$}\newline
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.4 {\ttfamily \#include $
+                          <$iostream$>$}\newline
+? 
+Missing character: There is no < in font nullfont!
+Missing character: There is no > in font nullfont!
+! Extra }, or forgotten $.
+<recently read> }
+                 
+l.4 {\ttfamily \#include $<$iostream$>$}
+                                        \newline
+? 
+! Undefined control sequence.
+l.5 Include dependency graph for main.\+
+                                        cpp\+:
+? 
+! Undefined control sequence.
+l.5 Include dependency graph for main.\+cpp\+
+                                             :
+? 
+)
+*
+! Missing $ inserted.
+<inserted text> 
+                $
+<*> 
+    
+? 
+
+Overfull \hbox (217.2556pt too wide) in paragraph at lines 1--0
+[]$[]\OML/cmm/m/it/10 cpp[][][][]$$stdio:h$$[] 
+ []
+
+
+Overfull \hbox (80.97731pt too wide) in paragraph at lines 1--0
+[]$$\OML/cmm/m/it/10 iostream$$[] 
+ []
+
+
+Overfull \hbox (173.12262pt too wide) in paragraph at lines 1--0
+\OML/cmm/m/it/10 Includedependencygraphformain:cpp \OT1/cmr/m/n/10 :$ 
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+
+*end
+
+! LaTeX Error: \begin{document} ended by \end{e}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> e
+     nd
+? 
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+<*> e
+     nd
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+<*> e
+     nd
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+<*> e
+     nd
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> en
+      d
+? 
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+
+*
+
+Overfull \hbox (20.0pt too wide) detected at line 0
+[] 
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+
+*\end
+! TeX capacity exceeded, sorry [input stack size=5000].
+<to be read again> 
+                   \expandafter 
+<*> \end
+        
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
+
+ 
+Here is how much of TeX's memory you used:
+ 22 strings out of 483183
+ 454 string characters out of 5966292
+ 231602 words of memory out of 5000000
+ 15138 multiletter control sequences out of 15000+600000
+ 532506 words of font info for 25 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 5000i,3n,4996p,109b,74s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

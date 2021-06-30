@@ -1,0 +1,235 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.26)  30 JUN 2021 12:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**files.tex
+(./files.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+! Undefined control sequence.
+l.1 \doxysection
+                {File List}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \doxysection{F
+                  ile List}
+? 
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+! Undefined control sequence.
+l.2 ...list of all files with brief descriptions\+
+                                                  :\begin{DoxyCompactList}
+? 
+Missing character: There is no : in font nullfont!
+
+! LaTeX Error: Environment DoxyCompactList undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...rief descriptions\+:\begin{DoxyCompactList}
+                                                  
+? 
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--3
+[]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \item\contentsline
+                      {section}{\mbox{\hyperlink{main_8cpp}{main.\+cpp}} }{\...
+
+? 
+! Undefined control sequence.
+<argument> \hyperlink 
+                      {main_8cpp}{main.\+cpp}
+l.3 ...n}{\mbox{\hyperlink{main_8cpp}{main.\+cpp}}
+                                                   }{\pageref{main_8cpp}}{}
+? 
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3 ...n}{\mbox{\hyperlink{main_8cpp}{main.\+cpp}}
+                                                   }{\pageref{main_8cpp}}{}
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+! Extra }, or forgotten $.
+<argument> \hyperlink {main_8cpp}
+                                 {main.\+cpp}
+l.3 ...n}{\mbox{\hyperlink{main_8cpp}{main.\+cpp}}
+                                                   }{\pageref{main_8cpp}}{}
+? 
+! Undefined control sequence.
+<argument> \hyperlink {main_8cpp}{main.\+
+                                         cpp}
+l.3 ...n}{\mbox{\hyperlink{main_8cpp}{main.\+cpp}}
+                                                   }{\pageref{main_8cpp}}{}
+? 
+! Extra }, or forgotten $.
+\mbox  #1->\leavevmode \hbox {#1}
+                                 
+l.3 ...n}{\mbox{\hyperlink{main_8cpp}{main.\+cpp}}
+                                                   }{\pageref{main_8cpp}}{}
+? 
+! Extra }, or forgotten $.
+l.3 ...{\mbox{\hyperlink{main_8cpp}{main.\+cpp}} }
+                                                  {\pageref{main_8cpp}}{}
+? 
+! Undefined control sequence.
+<write> ...Reference `main_8cpp' on page \thepage 
+                                                  \space undefined\on@line .
+l.3 ...in_8cpp}{main.\+cpp}} }{\pageref{main_8cpp}
+                                                  }{}
+? 
+
+LaTeX Warning: Reference `main_8cpp' on page  undefined on input line 3.
+
+
+! LaTeX Error: \begin{document} ended by \end{DoxyCompactList}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \end{DoxyCompactList}
+                         
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 \end{DoxyCompactList}
+                         
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.4 \end{DoxyCompactList}
+                         
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.4 \end{DoxyCompactList}
+                         
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.4 \end{DoxyCompactList}
+                         
+? 
+)
+*
+
+Overfull \hbox (70.4186pt too wide) in paragraph at lines 3--0
+[] 
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+! Interruption.
+<*> 
+    
+? 
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+
+*\end
+! TeX capacity exceeded, sorry [input stack size=5000].
+<to be read again> 
+                   \expandafter 
+<*> \end
+        
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
+
+ 
+Here is how much of TeX's memory you used:
+ 25 strings out of 483183
+ 481 string characters out of 5966292
+ 231602 words of memory out of 5000000
+ 15141 multiletter control sequences out of 15000+600000
+ 532646 words of font info for 25 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 5000i,6n,4996p,121b,128s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
