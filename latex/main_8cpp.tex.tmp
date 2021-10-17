@@ -7,8 +7,6 @@ Include dependency graph for main.\+cpp\+:
 \doxysubsection*{Functions}
 \begin{DoxyCompactItemize}
 \item 
-void \mbox{\hyperlink{main_8cpp_a5c52bee618ad8567aed546af90065114}{hello\+World}} ()
-\item 
 int \mbox{\hyperlink{main_8cpp_a419e261ed02177705371b670441e173b}{addup}} (int min, int max)
 \item 
 int \mbox{\hyperlink{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}{main}} ()
@@ -17,7 +15,7 @@ int \mbox{\hyperlink{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}{main}} ()
 
 \doxysubsection{Detailed Description}
 \begin{DoxyAuthor}{Author}
-Trevor Tomesh \href{mailto:tmtomesh@gmail.com}{\texttt{ tmtomesh@gmail.\+com}} 
+Trevor M. Tomesh \href{mailto:tmtomesh@gmail.com}{\texttt{ tmtomesh@gmail.\+com}} 
 \end{DoxyAuthor}
 \begin{DoxyVersion}{Version}
 1.\+0
@@ -26,7 +24,7 @@ Trevor Tomesh \href{mailto:tmtomesh@gmail.com}{\texttt{ tmtomesh@gmail.\+com}}
 This program is free software; you can redistribute it and/or modify it under the terms of the G\+NU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but W\+I\+T\+H\+O\+UT A\+NY W\+A\+R\+R\+A\+N\+TY; without even the implied warranty of M\+E\+R\+C\+H\+A\+N\+T\+A\+B\+I\+L\+I\+TY or F\+I\+T\+N\+E\+SS F\+OR A P\+A\+R\+T\+I\+C\+U\+L\+AR P\+U\+R\+P\+O\+SE. See the G\+NU General Public License for more details at \href{https://www.gnu.org/copyleft/gpl.html}{\texttt{ https\+://www.\+gnu.\+org/copyleft/gpl.\+html}}\hypertarget{main_8cpp_DESCRIPTION}{}\doxysubsection{D\+E\+S\+C\+R\+I\+P\+T\+I\+ON}\label{main_8cpp_DESCRIPTION}
-This program demonstrates how to use doxygen in C++ 
+This program is a simple demonstrator that shows how doxygen generates documentation for a simple C++ program. 
 
 \doxysubsection{Function Documentation}
 \mbox{\Hypertarget{main_8cpp_a419e261ed02177705371b670441e173b}\label{main_8cpp_a419e261ed02177705371b670441e173b}} 
@@ -35,7 +33,7 @@ This program demonstrates how to use doxygen in C++
 \doxysubsubsection{\texorpdfstring{addup()}{addup()}}
 {\footnotesize\ttfamily int addup (\begin{DoxyParamCaption}\item[{int}]{min,  }\item[{int}]{max }\end{DoxyParamCaption})}
 
-addup takes a minumum number (min) and a maximum number (max) and adds them up using a for-\/loop. It then returns the sum of these numbers.
+addup takes a minumum number (min) and a maximum number (max) and adds them up using a for loop. It then returns the sum of the numbers (sum)
 
 
 \begin{DoxyParams}{Parameters}
@@ -45,15 +43,9 @@ addup takes a minumum number (min) and a maximum number (max) and adds them up u
 \hline
 \end{DoxyParams}
 \begin{DoxyReturn}{Returns}
-sum is the final sum of the numbers from min to max. 
+the final sum of the numbers from min to max. 
 \end{DoxyReturn}
-\mbox{\Hypertarget{main_8cpp_a5c52bee618ad8567aed546af90065114}\label{main_8cpp_a5c52bee618ad8567aed546af90065114}} 
-\index{main.cpp@{main.cpp}!helloWorld@{helloWorld}}
-\index{helloWorld@{helloWorld}!main.cpp@{main.cpp}}
-\doxysubsubsection{\texorpdfstring{helloWorld()}{helloWorld()}}
-{\footnotesize\ttfamily void hello\+World (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
-
-This is a simple hello world function. \mbox{\Hypertarget{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}\label{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}} 
+\mbox{\Hypertarget{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}\label{main_8cpp_ae66f6b31b5ad750f1fe042a706a4e3d4}} 
 \index{main.cpp@{main.cpp}!main@{main}}
 \index{main@{main}!main.cpp@{main.cpp}}
 \doxysubsubsection{\texorpdfstring{main()}{main()}}
